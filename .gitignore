@@ -1,0 +1,13 @@
+secretsss 
+
+chapter4.txt
+
+#comment
+
+# ' / ' start pattern with a forward slash avoid recursivity
+
+gitignoretest/
+#end patter with forward slash to specify directory
+
+gitignoretest/*.txt
+# ' * ' means all files. Here I'm specifying to ignore all .txt files
